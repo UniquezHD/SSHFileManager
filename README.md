@@ -1,6 +1,6 @@
 # SSHFileManager
 
-i was using Teamviewer to transfer files to my raspberry pi but ended up having to pay so i switched to anydesk but at somepoint that stopped working and after that i used vncviwer and then somehow that stopped working so i got fed up and made my own filemanager to transfer files
+i was using Teamviewer to transfer files to my raspberry pi but ended up having to pay so i switched to anydesk but at somepoint that stopped working and after that i used vncviwer and then somehow that stopped working so i got fed up and made my own filemanager with filezilla inspired ui to transfer files
 
 https://www.youtube.com/watch?v=nr6kQ86jXTg
 
